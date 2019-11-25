@@ -1,0 +1,3 @@
+[submodule "5614116-go-fullstack-recipe-frontend"]
+	path = 5614116-go-fullstack-recipe-frontend
+	url = https://github.com/OpenClassrooms-Student-Center/5614116-go-fullstack-recipe-frontend.git
